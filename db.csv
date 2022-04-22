@@ -1,7 +1,7 @@
-user_id,user_name,created_at,is_banned,banned_until,,
-1,harry,2019-05-20T16:41:59.832Z,FALSE,null,,
-2,snape,2018-05-20T16:41:59.832Z,TRUE,null,,
-3,ron,2010-05-20T16:41:59.832Z,TRUE,2011-05-20T16:41:59.832Z<br>,,
-4,hermione,2019-10-20T16:41:59.832Z,TRUE,2023-05-20T16:41:59.832Z<br>,,
-5,hagrid,2020-07-20T16:41:59.832Z,TRUE,,,
-6,malfoy,11111111,FALSE,null,,
+user_id,user_name,created_at,is_banned,banned_until
+1,harry,2019-05-20T16:41:59.832Z,FALSE,null
+2,snape,2018-05-20T16:41:59.832Z,TRUE,null
+3,ron,2010-05-20T16:41:59.832Z,TRUE,2011-05-20T16:41:59.832Z<br>
+4,hermione,2019-10-20T16:41:59.832Z,TRUE,2023-05-20T16:41:59.832Z<br>
+5,hagrid,2020-07-20T16:41:59.832Z,TRUE,
+6,malfoy,11111111,FALSE,null
